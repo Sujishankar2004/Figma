@@ -63,8 +63,8 @@ box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 
 ## OUTPUT:
 ![output](./out1.png)
-![output](./out1.png)
-![output](./out1.png)
+![output](./out2.png)
+![output](./out3.png)
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
